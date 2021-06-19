@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mk-sabira
 - 👀 I’m interested in Kotlin programmimg 
-- 🌱 I’m currently learning Android developer
+- 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
