@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mk-sabira
-- 👀 I’m interested in Kotlin programmimg 
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on developing android app
+- 👀 I’m interested in C programming lang
+- 🌱 I’m currently learning at 42 Abu Dhabi
 - 📫 How to reach me - https://www.linkedin.com/in/sabira-makhamatkayym-kyzy-a73609157/
 
 <!---
