@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mk-sabira
-- 👀 I’m interested in C programming lang
-- 🌱 I’m currently learning at 42 Abu Dhabi
+- 👋 Hi, I’m Sabira
+- Interested in C programming lang
+- Currently learning at 42 Abu Dhabi
 - 📫 How to reach me - https://www.linkedin.com/in/sabira-makhamatkayym-kyzy-a73609157/
 
 <!---
