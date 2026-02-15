@@ -8,6 +8,16 @@ A **UI/UX designer with a developer background**.
 I focus on creating clear, accessible designs and implementing them into functional web interfaces.  
 Currently deepening my skills in **UI/UX design systems, frontend development, and full-stack workflows**.
 
+## 🚀 42 Projects
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="28"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="28"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="28"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="28"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="28"/>
+</p>
+
 | Project | Description | Tech / Concepts |
 |-------|------------|----------------|
 | **42 Piscine** | Comprehensive Piscine repository with exercises, notes, and problem-solving approaches covering core programming foundations. | C · Shell · Git · Algorithms |
