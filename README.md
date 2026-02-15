@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I’m **Sabira**, a **UI/UX designer with a developer background**.  
+A **UI/UX designer with a developer background**.  
 I focus on creating clear, accessible designs and implementing them into functional web interfaces.  
 Currently deepening my skills in **UI/UX design systems, frontend development, and full-stack workflows**.
 
