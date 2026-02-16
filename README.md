@@ -32,3 +32,25 @@ Currently deepening my skills in **UI/UX design systems, frontend development, a
   | **[CPP Modules](https://github.com/mk-sabira/CPP_Modules.git)** | Series of projects covering modern C++ concepts and object-oriented programming. | C++ · OOP |
 
 </details>
+
+### Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="32"/>
+</p>
+
+### Tools & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="32"/>
+  <img src="https://img.shields.io/badge/Babylon.js-000000?style=for-the-badge&logo=babylondotjs&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" width="32"/>
+</p>
+
+**UI / UX Focus:**  
+Wireframing · Prototyping · Design systems · Accessibility
+
+
