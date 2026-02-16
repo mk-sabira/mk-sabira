@@ -8,31 +8,26 @@ A **UI/UX designer with a developer background**.
 I focus on creating clear, accessible designs and implementing them into functional web interfaces.  
 Currently deepening my skills in **UI/UX design systems, frontend development, and full-stack workflows**.
 
-## 🚀 42 Projects
+<details>
+  <summary><h2>💻 42 Projects</h2></summary>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="28"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="28"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="28"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="28"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="28"/>
-</p>
+  <br/>
 
-| Project | Description | Tech / Concepts |
-|-------|------------|----------------|
-| **42 Piscine** | Comprehensive Piscine repository with exercises, notes, and problem-solving approaches covering core programming foundations. | C · Shell · Git · Algorithms |
-| **Libft** | Custom implementation of standard C library functions, forming a reusable foundation for future projects. | C · Pointers · Memory Management |
-| **ft_printf** | Reimplementation of `printf` with format parsing, variadic functions, and manual type handling. | C · Variadic Functions · Parsing |
-| **get_next_line** | Utility function to read files line by line using static variables and precise pointer logic. | C · File I/O · Static Variables |
-| **Born2beroot** | Secure Debian virtual machine setup with strict user policies, firewall rules, and system monitoring. | Linux · Virtualization · Security |
-| **push_swap** | Sorting algorithm project optimizing stack operations to achieve minimal instruction output. | C · Algorithms · Data Structures |
-| **minitalk** | Client-server communication using UNIX signals to transmit data bit by bit. | C · UNIX Signals |
-| **FdF** | 3D wireframe renderer using Bresenham’s algorithm, scaling, projection, and color interpolation. | C · Graphics · MiniLibX |
-| **minishell** | Fully functional shell with parsing, pipes, redirections, and process execution. | C · Parsing · Processes |
-| **philosophers** | Concurrency simulation exploring synchronization, mutexes, and shared resources. | C · Threads · Synchronization |
-| **NetPractice** | Network configuration simulator focusing on IP addressing, subnetting, and routing logic. | Networking · TCP/IP |
-| **miniRT** | Ray tracer built from scratch capable of rendering 3D scenes with lighting and reflections. | C · Ray Tracing · Math |
-| **Inception** | Multi-container infrastructure using Docker Compose with NGINX, WordPress, and MariaDB. | Docker · NGINX · Databases |
-| **webserv** | HTTP server handling concurrent clients, routing, and CGI execution. | C++ · Networking · HTTP |
-| **CPP Modules** | Series of projects covering modern C++ concepts and object-oriented programming. | C++ · OOP · Templates |
-
+  | Project | Description | Tech / Concepts |
+  |--------|-------------|-----------------|
+  | **42 Piscine** | Comprehensive Piscine repository covering core programming foundations. | C · Shell · Git |
+  | **Libft** | Custom implementation of standard C library functions. | C · Memory Management |
+  | **ft_printf** | Reimplementation of `printf` with format parsing and variadic functions. | C · Variadic Functions |
+  | **get_next_line** | Line-by-line file reader using static variables. | C · File I/O |
+  | **Born2beroot** | Secure Debian VM with firewall and system monitoring. | Linux · Security |
+  | **push_swap** | Optimized stack-based sorting algorithm. | C · Algorithms |
+  | **minitalk** | Client-server communication via UNIX signals. | C · UNIX Signals |
+  | **so_long** | 2D game project involving map parsing, sprite rendering, player movement, and basic game logic using a simple graphics library. | C · Graphics · MiniLibX |
+  | **minishell** | Fully functional shell with parsing and execution logic. | C · Processes |
+  | **philosophers** | Concurrency problem exploring threads and mutexes. | C · Threads |
+  | **NetPractice** | IP addressing and subnetting simulator. | Networking |
+  | **miniRT** | Ray tracer rendering 3D scenes with lighting. | C · Ray Tracing |
+  | **Inception** | Docker-based multi-container infrastructure. | Docker · NGINX |
+  | **webserv** | HTTP server handling concurrent connections. | C++ · Networking |
+  | **CPP Modules** | Series of projects covering modern C++ concepts. | C++ · OOP |
+</details>
