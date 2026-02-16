@@ -15,19 +15,20 @@ Currently deepening my skills in **UI/UX design systems, frontend development, a
 
   | Project | Description | Tech / Concepts |
   |--------|-------------|-----------------|
-  | **42 Piscine** | Comprehensive Piscine repository covering core programming foundations. | C · Shell · Git |
-  | **Libft** | Custom implementation of standard C library functions. | C · Memory Management |
-  | **ft_printf** | Reimplementation of `printf` with format parsing and variadic functions. | C · Variadic Functions |
-  | **get_next_line** | Line-by-line file reader using static variables. | C · File I/O |
-  | **Born2beroot** | Secure Debian VM with firewall and system monitoring. | Linux · Security |
-  | **push_swap** | Optimized stack-based sorting algorithm. | C · Algorithms |
-  | **minitalk** | Client-server communication via UNIX signals. | C · UNIX Signals |
-  | **so_long** | 2D game project involving map parsing, sprite rendering, player movement, and basic game logic using a simple graphics library. | C · Graphics · MiniLibX |
-  | **minishell** | Fully functional shell with parsing and execution logic. | C · Processes |
-  | **philosophers** | Concurrency problem exploring threads and mutexes. | C · Threads |
-  | **NetPractice** | IP addressing and subnetting simulator. | Networking |
-  | **miniRT** | Ray tracer rendering 3D scenes with lighting. | C · Ray Tracing |
-  | **Inception** | Docker-based multi-container infrastructure. | Docker · NGINX |
-  | **webserv** | HTTP server handling concurrent connections. | C++ · Networking |
-  | **CPP Modules** | Series of projects covering modern C++ concepts. | C++ · OOP |
+  | **[42 Piscine](https://github.com/mk-sabira/42-piscine.git)** | Comprehensive Piscine repository covering core programming foundations. | C · Shell · Git |
+  | **[Libft](https://github.com/mk-sabira/42-projects/tree/main/libft)** | Custom implementation of standard C library functions. | C · Memory Management |
+  | **[ft_printf](https://github.com/mk-sabira/42-projects/tree/main/libftprintf.a)** | Reimplementation of `printf` with format parsing and variadic functions. | C · Variadic Functions |
+  | **[get_next_line](https://github.com/mk-sabira/42-projects/tree/main/get_next_line)** | Line-by-line file reader using static variables and precise pointer logic. | C · File I/O |
+  | **[Born2beroot](https://github.com/mk-sabira/42-projects/tree/main/born2beRoot)** | Secure Debian virtual machine with strict user policies, firewall rules, and monitoring. | Linux · Security |
+  | **[push_swap](https://github.com/mk-sabira/push_swap.git)** | Optimized stack-based sorting algorithm minimizing operations. | C · Algorithms |
+  | **[minitalk](LINK_HERE)** | Client-server communication using UNIX signals to transmit data bit by bit. | C · UNIX Signals |
+  | **[so_long](https://github.com/mk-sabira/so_long.git)** | 2D game with map parsing, sprite rendering, player movement, and basic game logic. | C · Graphics · MiniLibX |
+  | **[minishell](LINK_HERE)** | Fully functional shell with parsing, pipes, redirections, and execution logic. | C · Parsing · Processes |
+  | **[philosophers](LINK_HERE)** | Concurrency simulation exploring threads, mutexes, and synchronization. | C · Threads · Synchronization |
+  | **[NetPractice](LINK_HERE)** | Network configuration simulator focusing on IP addressing and subnetting. | Networking |
+  | **[miniRT](LINK_HERE)** | Ray tracer rendering 3D scenes with lighting and reflections. | C · Ray Tracing · Math |
+  | **[Inception](LINK_HERE)** | Multi-container infrastructure using Docker Compose with NGINX and databases. | Docker · NGINX |
+  | **[webserv](LINK_HERE)** | HTTP server handling concurrent connections, routing, and CGI execution. | C++ · Networking |
+  | **[CPP Modules](LINK_HERE)** | Series of projects covering modern C++ concepts and object-oriented programming. | C++ · OOP |
+
 </details>
