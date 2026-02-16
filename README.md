@@ -30,6 +30,8 @@ Currently deepening my skills in **UI/UX design systems, frontend development, a
   | **[Inception](https://github.com/mk-sabira/inception.git)** | Multi-container infrastructure using Docker Compose with NGINX and databases. | Docker · NGINX |
   | **[ft_irc](LINK_HERE)** | Internet Relay Chat server implementing client authentication, channels, private messaging, and command handling using non-blocking I/O. | C++ · Networking · Sockets |
   | **[CPP Modules](https://github.com/mk-sabira/CPP_Modules.git)** | Series of projects covering modern C++ concepts and object-oriented programming. | C++ · OOP |
+  | **ft_transcendence** | Full-stack web application featuring real-time gameplay, authentication, user profiles, and a responsive user interface, developed as a team project. | TypeScript · Tailwind CSS · Fastify · Frontend · Backend · Babylon.js · UI/UX |
+
 
 </details>
 
