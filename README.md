@@ -9,7 +9,7 @@ I focus on creating clear, accessible designs and implementing them into functio
 Currently deepening my skills in **UI/UX design systems, frontend development, and full-stack workflows**.
 
 <details>
-  <summary><h2>💻 42 Projects</h2></summary>
+  <summary><h2>💻 Projects</h2></summary>
 
   <br/>
 
